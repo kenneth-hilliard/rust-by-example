@@ -55,5 +55,5 @@ fn main() {
     let width: usize = 5;
     println!("{number:>width$}");
 
-    println!("Pi is roughly ")
+    println!("Pi is roughly {:.3}", 3.141592)
 }
